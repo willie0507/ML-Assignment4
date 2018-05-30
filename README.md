@@ -1,2 +1,8 @@
 # ML-Assignment4
-Deadline: 05/30(Wed) 11:59p.m
+Convert data to SVM tools required data format
+
+    python hw4.py --train
+
+For testing data, use
+
+    python hw4.py --test
